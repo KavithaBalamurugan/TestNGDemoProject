@@ -8,7 +8,7 @@
     </run>
     <classes>
       <class name="com.testng.project.tests.LoginTest"/>
-      <class name="com.testng.project.tests/Dataproviders1"/>
+      <class name="com.testng.project.tests.Dataproviders1"/>
     </classes>
   
 </groups>
