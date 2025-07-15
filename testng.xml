@@ -3,8 +3,8 @@
     <test name="Login Tests">
     <groups>
     <run>
-    <!--include name="navigation"/-->
-    <1include name="smoke"/>
+    <!--include name="navigation"/> -->
+    <include name="smoke"/>
     </run>
     <classes>
       <class name="com.testng.project.tests.LoginTest"/>
