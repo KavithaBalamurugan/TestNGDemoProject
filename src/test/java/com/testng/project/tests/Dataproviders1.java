@@ -38,7 +38,7 @@ public class Dataproviders1 extends BaseClass {
         Thread.sleep(3000);
         
         loginPage.login.click();
-        Thread.sleep(3000);
+        Thread.sleep(4000);
         
         loginPage.username.click();
         loginPage.username.sendKeys(username);
