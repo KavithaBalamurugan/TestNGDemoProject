@@ -46,7 +46,7 @@ public class Dataproviders1 extends BaseClass {
         loginPage.password.click();
         loginPage.password.sendKeys(password);
         
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         loginPage.loginbutton.click();
         
         System.out.println("Login test completed for: " + username);
